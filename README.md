@@ -1,5 +1,8 @@
 # ⚡ LLM Tokenizer & Cost Intelligence Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://llm-token-intelligence-xjh8.vercel.app)
+[![API Status](https://img.shields.io/badge/API_Docs-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://llm-token-intelligence.onrender.com/docs)
+
 An end-to-end NLP engineering tool and cost intelligence dashboard. This platform combines an algorithmic **Byte-Pair Encoding (BPE) tokenizer built from scratch** with production benchmarks (`tiktoken`) to deliver real-time token boundary visualization, multi-model cost analytics, and prompt optimization.
 
 ---
