@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Coins, Layers, Cpu, ArrowRightLeft, Sparkles, Check, Copy } from 'lucide-react';
 
 interface TokenChunk {
